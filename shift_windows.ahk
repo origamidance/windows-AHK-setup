@@ -7,7 +7,7 @@
 #l::send #{right}{Lwin up}  ; snap window right
 
 +#s::send #+{left}           ; move window to another monitor
-#Tab::send !{esc}             ; cycle through all windows
+;#Tab::send !{esc}             ; cycle through all windows
 
 ;#Tab::send !{tab}{tab up}      ; toggle between this window and the last
 ;#z::send #{tab}              ; windows 10 task switcher
